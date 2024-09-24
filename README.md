@@ -68,3 +68,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 osTicket
 </p>
 <br />
+<p>
+  
+</p>
+
+<p>
+Heidi SQL is installed. A database has already been installed above but we need to be able to connect to that database. In order to connect to the databese Heidi SQL is installed and given the credentials inorder to access the database that osTicket will use.
+</p>
+<br />
