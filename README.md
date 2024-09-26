@@ -76,6 +76,7 @@ osTicket
 </p>
 <br />
 <p>
+![HeidiSQL Pic](https://github.com/user-attachments/assets/10d92d76-1d3d-46bb-9791-380f936ae1d6)
   
 </p>
 
