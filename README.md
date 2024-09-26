@@ -43,6 +43,8 @@ IIS stands for Internet Information Services. It is a Microsoft web server that 
 <p>
   
 ![image](https://github.com/user-attachments/assets/443db774-9390-4a46-a532-5e1bab633e11)
+![PHP Manager Pic2](https://github.com/user-attachments/assets/cbe0e30e-4192-4fbe-ab86-67631287f3eb)
+
   
 </p>
 <p>
