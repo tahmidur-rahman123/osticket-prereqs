@@ -61,21 +61,22 @@ PHP is a backend webserver language that osTicket uses to run and needs to be in
 </p>
 <p>
 MySQL 5.5.62 is installed. It is a database that osTicket will use to store data, it will store everything from user accounts to ticket information. A database is needed in order for osTicket to run.
-  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
 <p>
+  
 ![image](https://github.com/user-attachments/assets/22d850c2-34de-45d9-b610-77119863d2a5)
   
 </p>
 <p>
-osTicket
+There are a fair number of prerequisites required in order to install osTicket and to make sure it runs properly. Everything after is just adding the final touches to the setup of osTicket.  
   
 </p>
 <br />
 <p>
+  
 ![HeidiSQL Pic](https://github.com/user-attachments/assets/10d92d76-1d3d-46bb-9791-380f936ae1d6)
   
 </p>
@@ -86,7 +87,12 @@ Heidi SQL is installed. A database has already been installed above but we need 
 <br />
 
 <p>
-
   
+![osTicket Installed Pic](https://github.com/user-attachments/assets/0942760a-2b87-4014-b79c-751b7201082f)
+  
+</p>
+<p>
+  
+This concludes the setup of osTicket, this was a very high level overview of the steps taken to install and setup osTicket. There are more steps involved and more applications needed to be downloaded on the backend to make sure osTicket runs smoothly.
 </p>
 <br />
