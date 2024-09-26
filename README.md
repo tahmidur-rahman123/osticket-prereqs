@@ -41,7 +41,9 @@ IIS stands for Internet Information Services. It is a Microsoft web server that 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/443db774-9390-4a46-a532-5e1bab633e11)
+  
 </p>
 <p>
 PHP is a backend webserver language that osTicket uses to run and needs to be installed with features enabled for osTicket to run smoothly.
