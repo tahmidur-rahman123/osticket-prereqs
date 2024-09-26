@@ -51,7 +51,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![MySQL pic](https://github.com/user-attachments/assets/518b56c1-07f7-4350-bbf7-0b0a73b11668)
+  
 </p>
 <p>
 MySQL 5.5.62 is installed. It is a database that osTicket will use to store data, it will store everything from user accounts to ticket information. A database is needed in order for osTicket to run.
