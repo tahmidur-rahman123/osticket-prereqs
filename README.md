@@ -65,11 +65,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
+![image](https://github.com/user-attachments/assets/22d850c2-34de-45d9-b610-77119863d2a5)
   
 </p>
-
 <p>
 osTicket
+  
 </p>
 <br />
 <p>
@@ -78,5 +79,11 @@ osTicket
 
 <p>
 Heidi SQL is installed. A database has already been installed above but we need to be able to connect to that database. In order to connect to the databese Heidi SQL is installed and given the credentials inorder to access the database that osTicket will use.
+</p>
+<br />
+
+<p>
+
+  
 </p>
 <br />
